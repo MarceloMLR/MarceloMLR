@@ -1,41 +1,41 @@
 <div align="right">
-  <a href="README.md"><img src="https://flagcdn.com/24x18/br.png" alt="BR" /> Português</a>
+  <a href="README.md"><img src="https://flagcdn.com/24x18/br.png" alt="BR" /> <b>Português</b></a>
   &nbsp;·&nbsp;
-  <a href="README.en.md"><img src="https://flagcdn.com/24x18/us.png" alt="US" /> <b>English</b></a>
+  <a href="README.en.md"><img src="https://flagcdn.com/24x18/us.png" alt="US" /> English</a>
 </div>
 
-# Hi, I'm Marcelo 👋
+# Olá, eu sou o Marcelo 👋
 
-### .NET / Azure developer specialized in **tax & fiscal integrations**
+### Desenvolvedor .NET / Azure especializado em **integrações fiscais e tributárias**
 
-I work on what tends to be the most painful (and most expensive) part of Brazilian systems: **fiscal integration**. I build robust connectors between **ERPs** (such as Dynamics 365) and **compliance platforms**, handling Brazilian electronic fiscal documents — **NF-e, CT-e, NFS-e** — and all the complexity of the **Brazilian Tax Reform (IBS/CBS/IS)**.
+Trabalho com a parte que costuma ser a mais dolorida (e mais cara) dos sistemas brasileiros: a **integração fiscal**. Construo conectores robustos entre **ERPs** (como o Dynamics 365) e **plataformas de compliance**, lidando com documentos fiscais eletrônicos — **NF-e, CT-e, NFS-e** — e com toda a complexidade da **Reforma Tributária (IBS/CBS/IS)**.
 
-My focus is production-grade code: clean architecture, resilient messaging, and integrations that never lose or duplicate a document.
+Meu foco é código que aguenta produção: arquitetura limpa, mensageria resiliente e integrações que não perdem nem duplicam documento.
 
 ---
 
 ### 🛠️ Stack
 
-- **Languages & frameworks:** C#, .NET, React
+- **Linguagens & frameworks:** C#, .NET, React
 - **Azure:** Service Bus, Functions, Blob Storage, SQL, Event Grid, Application Insights
-- **Fiscal domain:** ERP ↔ compliance integrations, Brazilian e-fiscal documents (NF-e / CT-e / NFS-e), Brazilian Tax Reform (IBS/CBS/IS)
-- **Architecture:** ports & adapters (hexagonal), messaging, idempotency, domain-driven design
+- **Domínio fiscal:** integrações ERP ↔ compliance, documentos fiscais eletrônicos (NF-e / CT-e / NFS-e), Reforma Tributária (IBS/CBS/IS)
+- **Arquitetura:** ports & adapters (hexagonal), mensageria, idempotência, design orientado a domínio
 
 ---
 
-### 🚧 Currently building
+### 🚧 Em construção
 
-I'm building an open-source **Fiscal Integration Hub**: a .NET/Azure connector with **pluggable sources and destinations** (hexagonal architecture), **resilient messaging** (idempotency, retry, dead-letter), and **readiness for the Brazilian Tax Reform**. Soon pinned here on my profile.
-
----
-
-### 💼 Open to freelance work
-
-Available for **fiscal integration**, **ERP connectors**, **.NET back-end**, and **Azure** projects. If you have a tax or fiscal integration headache, chances are I've already dealt with it.
+Estou desenvolvendo, em código aberto, um **Hub de Integração Fiscal**: um conector .NET/Azure com **fontes e destinos plugáveis** (arquitetura hexagonal), **mensageria resiliente** (idempotência, retry, dead-letter) e **prontidão para a Reforma Tributária**. Em breve fixado aqui no perfil.
 
 ---
 
-### 📫 Contact
+### 💼 Aberto a freelances
+
+Disponível para projetos de **integração fiscal**, **conectores de ERP**, **back-end .NET** e **soluções em Azure**. Se você tem uma dor de integração fiscal ou tributária, é bem provável que eu já tenha passado por ela.
+
+---
+
+### 📫 Contato
 
 - **LinkedIn:** [marcelolima14](https://www.linkedin.com/in/marcelolima14/)
 - **E-mail:** marcelolimaribeiro2021@gmail.com
